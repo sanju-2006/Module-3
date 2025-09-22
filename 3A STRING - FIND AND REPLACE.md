@@ -10,6 +10,8 @@ To write a Python function to accept a string, identify a word to be replaced, a
 
 ### ALGORITHM
 
+
+
 1. Begin the program.  
 2. Input the original string `str1` and the word to be replaced `replace_str`.  
 3. Ask the user to input the new replacement word `str2`.  
