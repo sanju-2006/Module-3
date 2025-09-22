@@ -23,7 +23,22 @@ To write a Python program that matches a string containing an `'a'` followed by 
 ### PROGRAM
 
 ```
+
+import re
+a=input()
+z="ab{2,3}"
+q=bool(re.search(z,a))
+if q:
+    print("Found a match!")
+else:
+    print("Not matched!")
+
+
 ```
 ### OUTPUT
 
+Not matched!
+
 ### RESULT
+
+<img width="482" height="189" alt="image" src="https://github.com/user-attachments/assets/021d405c-e347-4728-abac-35c6762069d7" />
