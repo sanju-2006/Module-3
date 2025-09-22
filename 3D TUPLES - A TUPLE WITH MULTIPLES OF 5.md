@@ -1,10 +1,11 @@
 # Exp.No:3d  
-## TUPLES - A TUPLE WITH MULTIPLES OF 5
+## TUPLES - element 'n'  not exists
 
 ---
 
 ### AIM  
-To write a Python program to create a tuple containing all multiples of 5 up to a given number **N**.
+Write a Python program to check whether an element 'n'  not exists and '8' exists within a tuple.
+
 
 ---
 
@@ -22,8 +23,22 @@ To write a Python program to create a tuple containing all multiples of 5 up to 
 ### PROGRAM
 
 ```
+def check(t):
+    not_exists='n' not in t
+    eight_exists='8' in t
+    return not_exists,eight_exists
+t=eval(input())
+not_exists,eight_exists=check(t)
+print(not_exists)
+print(eight_exists)
+
 ```
 
 ### OUTPUT
 
+False
+True
+
 ### RESULT
+
+<img width="742" height="234" alt="image" src="https://github.com/user-attachments/assets/7b73829a-2db2-4434-83be-727c1497be83" />
