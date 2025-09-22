@@ -24,8 +24,22 @@ To write a Python function that accepts a number **N** and creates a list contai
 ### PROGRAM
 
 ```
+def createlist(n):
+    l=[]
+    s=0
+    for i in range(12,n,2):
+        s=s+i
+        l.append(i)
+    print("List =",l)
+    print("Sum of the list",s)
 ```
 
 ### OUTPUT
 
+List = [12, 14, 16, 18]
+Sum of the list 60
+
 ### RESULT
+
+<img width="694" height="224" alt="image" src="https://github.com/user-attachments/assets/d272db5d-c521-42b1-a1dd-7a1f05406ee2" />
+
