@@ -1,10 +1,11 @@
 # Exp.No:3a
-## STRING - FIND AND REPLACE
+## STRING - convert
 
 ---
 
 ### AIM  
-To write a Python function to accept a string, identify a word to be replaced, and replace it with a new word provided by the user.
+Write a python function "convert" that reads a string and then prints a string that capitalize every other letter in the string.
+
 
 ---
 
@@ -23,8 +24,22 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ### PROGRAM
 
 ```
+def convert(a):
+    res=""
+    for i in range(len(a)):
+        if i%2:
+            res=res+a[i].upper()
+        else:
+            res+=a[i].lower()
+    print(res)
 ```
 
 ### OUTPUT
 
+pYtHoN PrOgRaMmInG
+
+
+
 ### RESULT
+
+<img width="903" height="193" alt="image" src="https://github.com/user-attachments/assets/ff10cc5c-2b0a-4128-8898-89564245e271" />
