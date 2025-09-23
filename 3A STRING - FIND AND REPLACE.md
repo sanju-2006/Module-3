@@ -36,10 +36,10 @@ def convert(a):
 
 ### OUTPUT
 
-pYtHoN PrOgRaMmInG
+<img width="903" height="193" alt="image" src="https://github.com/user-attachments/assets/ff10cc5c-2b0a-4128-8898-89564245e271" />
 
 
 
 ### RESULT
 
-<img width="903" height="193" alt="image" src="https://github.com/user-attachments/assets/ff10cc5c-2b0a-4128-8898-89564245e271" />
+python function "convert" that reads a string and then prints a string that capitalize every other letter in the string is successfully verified
