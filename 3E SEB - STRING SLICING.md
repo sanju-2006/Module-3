@@ -29,9 +29,8 @@ def slice(x):
 
 ### OUTPUT
 
-The reversed string is 'teHr'
+<img width="943" height="228" alt="image" src="https://github.com/user-attachments/assets/d06f9641-7369-4651-9808-84cf311b975a" />
 
 ### RESULT
 
-<img width="943" height="228" alt="image" src="https://github.com/user-attachments/assets/d06f9641-7369-4651-9808-84cf311b975a" />
-
+Python function that accepts a string and forms a new string by reversing the characters from the **4th position to the 10th position** with **alternate characters**, and then prints the new string is sucessfully verified
