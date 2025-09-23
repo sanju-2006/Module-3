@@ -36,9 +36,9 @@ print(eight_exists)
 
 ### OUTPUT
 
-False
-True
+<img width="742" height="234" alt="image" src="https://github.com/user-attachments/assets/7b73829a-2db2-4434-83be-727c1497be83" />
+
 
 ### RESULT
 
-<img width="742" height="234" alt="image" src="https://github.com/user-attachments/assets/7b73829a-2db2-4434-83be-727c1497be83" />
+Python program to check whether an element 'n'  not exists and '8' exists within a tuple is sucessfully verified
