@@ -37,8 +37,9 @@ else:
 ```
 ### OUTPUT
 
-Not matched!
+<img width="482" height="189" alt="image" src="https://github.com/user-attachments/assets/021d405c-e347-4728-abac-35c6762069d7" />
+
 
 ### RESULT
 
-<img width="482" height="189" alt="image" src="https://github.com/user-attachments/assets/021d405c-e347-4728-abac-35c6762069d7" />
+Python program that matches a string containing an `'a'` followed by **two to three `'b'` characters** using regular expressions is successfully verified
