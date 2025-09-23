@@ -36,10 +36,9 @@ def createlist(n):
 
 ### OUTPUT
 
-List = [12, 14, 16, 18]
-Sum of the list 60
+<img width="694" height="224" alt="image" src="https://github.com/user-attachments/assets/d272db5d-c521-42b1-a1dd-7a1f05406ee2" />
+
 
 ### RESULT
 
-<img width="694" height="224" alt="image" src="https://github.com/user-attachments/assets/d272db5d-c521-42b1-a1dd-7a1f05406ee2" />
-
+Python function that accepts a number **N** and creates a list containing all even numbers up to **N* is successfully verified
